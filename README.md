@@ -1,2 +1,17 @@
-# machinelearning-projects-and-resources
-A collection of ML/AI/DL relevant github-projects
+# A collection of awesome machine learning projects:
+
+##### Feature engineering:
+- [Featuretools](https://github.com/FeatureLabs/featuretools)
+
+##### ML:
+- [FBProphet](https://facebook.github.io/prophet/)
+- [XGBoost](https://xgboost.ai/)
+
+##### Explanation:
+- [SHAP](https://github.com/slundberg/shap)
+
+##### Workflow and deployment:
+- [MLFlow](https://www.mlflow.org/docs/latest/tracking.html)
+
+##### Coding:
+- [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
