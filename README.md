@@ -3,12 +3,13 @@
 ##### Feature engineering:
 - [Featuretools](https://github.com/FeatureLabs/featuretools)
 
-##### ML:
+##### Machine learning models:
 - [FBProphet](https://facebook.github.io/prophet/)
 - [XGBoost](https://xgboost.ai/)
 
-##### Explanation:
+##### Model explanation:
 - [SHAP](https://github.com/slundberg/shap)
+- [LIME](https://github.com/marcotcr/lime)
 
 ##### Workflow and deployment:
 - [MLFlow](https://www.mlflow.org/docs/latest/tracking.html)
